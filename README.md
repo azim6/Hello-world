@@ -1,2 +1,2 @@
 # Hello-world
-Starting from root/Hello world of some programming language like Java, C++, Python, JavaScript and so on.
+Starting from root/Hello world of some programming language like Java, C++, Python and so on.
